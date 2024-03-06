@@ -1,0 +1,8 @@
+listener:
+  host: "localhost"
+  port: 7373
+secret_key: "super_secret_key!"
+destinations:
+  - google.com:80
+  - pornhub.com:80
+  - delfi.lv:80
